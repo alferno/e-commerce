@@ -2,6 +2,9 @@
   "name": "e-commerce",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "15.4.0"
+  },
   "main": "server.js",
   "type": "module",
   "scripts": {
